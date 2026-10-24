@@ -4,21 +4,37 @@
   <b>University of Alicante student</b> · curious builder · always growing 🌱
 </p>
 
+<p align="center"><sub>SOCIAL &amp; CONTACT</sub></p>
+
 <p align="center">
-  <a href="https://github.com/mikbaiman">
-    <img src="https://img.shields.io/badge/GitHub-mikbaiman-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
   <a href="mailto:mikbaiman@gmail.com">
     <img src="https://img.shields.io/badge/Email-mikbaiman%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Mikhail" />
+  </a>
+  <a href="https://www.youtube.com/@mikbaiman">
+    <img src="https://img.shields.io/badge/YouTube-%40mikbaiman-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
   </a>
   <a href="https://www.instagram.com/mikbaiman/">
     <img src="https://img.shields.io/badge/Instagram-%40mikbaiman-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
+  <a href="https://t.me/mikbaiman">
+    <img src="https://img.shields.io/badge/Telegram-%40mikbaiman-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
+  </a>
+  <a href="https://wa.me/34623995693">
+    <img src="https://img.shields.io/badge/WhatsApp-Message%20me-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
+  </a>
+</p>
+
+<p align="center"><sub>DEVELOPER &amp; DATA PROFILES</sub></p>
+
+<p align="center">
+  <a href="https://github.com/mikbaiman">
+    <img src="https://img.shields.io/badge/GitHub-mikbaiman-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
   <a href="https://www.kaggle.com/mikbaiman">
     <img src="https://img.shields.io/badge/Kaggle-mikbaiman-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle" />
   </a>
-  <a href="https://t.me/mikbaiman">
-    <img src="https://img.shields.io/badge/Telegram-%40mikbaiman-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
+  <a href="https://ods.ai/users/xaf3f45fe3607">
+    <img src="https://img.shields.io/badge/ODS.ai-Profile-2D7FF9?style=for-the-badge" alt="ODS.ai profile" />
   </a>
 </p>
 
@@ -42,9 +58,9 @@ I'm **Mikhail Baimanov** ([@mikbaiman](https://github.com/mikbaiman)), a student
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mikbaiman&bg_color=0D1117&color=C9D1D9&line=22C55E&point=FFFFFF&area=true&area_color=166534&hide_border=true" alt="Mikhail's GitHub activity graph" />
+  <img src="https://ghchart.rshah.org/22c55e/mikbaiman" alt="Mikhail's GitHub contribution activity graph" />
 </p>
 
 <p align="center">
-  <i>Thanks for stopping by — let's build something green and great. 💚</i>
+  <i>Thanks for stopping by — let's build something green and great. 💚🌿🍀🪴🌱</i>
 </p>
